@@ -26,8 +26,10 @@ The description of the document outlines the steps followed in implementing a pr
 
 1. **Project Implementation Steps:** The document begins by detailing the various steps involved in implementing the project. These steps include data preparation, PySpark cluster setup, PySpark implementation, execution of PySpark jobs, and analysis and interpretation of the results.
 
-2.** Results Achieved:** It then presents the results achieved for each analysis goal. Each goal is accompanied by the source code used for analysis and the corresponding results obtained from the analysis. The goals covered include calculating average fares for each airline, identifying the cheapest airlines and fares, finding minimum fares for specific routes, plotting trends of ticket purchases over time, and determining the top trending airlines and common scheduled departure times.
+2.Results Achieved: It then presents the results achieved for each analysis goal. Each goal is accompanied by the source code used for analysis and the corresponding results obtained from the analysis. The goals covered include calculating average fares for each airline, identifying the cheapest airlines and fares, finding minimum fares for specific routes, plotting trends of ticket purchases over time, and determining the top trending airlines and common scheduled departure times.
 
 3. **Conclusion:** Finally, the document concludes by summarizing the key insights obtained from the analysis and discussing their significance for decision-making within the aviation sector. It highlights the strategic implications of the insights derived from the analysis and emphasizes the importance of data-driven decision-making in maintaining competitiveness in the aviation industry.
 
 Overall, the description provides a comprehensive overview of the project, detailing the steps followed, the results obtained, and the conclusions drawn from the analysis of airline fare data using PySpark.
+
+Kaggle file:- https://www.kaggle.com/datasets/mahoora00135/flights
