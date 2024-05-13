@@ -3,11 +3,8 @@ Project is mainly to get the Airlanes data from the data Set ,using pyspark and 
 
 Project title: DataDev
 
-Our Team Members: 
 Sayendranadh Chowdary(s564837)
-Manoj
-Bharath
-Ashok
+
 
 Software Setup: PySpark Programming Language: Python Tools: JupyterLab or Jupyter Notebook Libraries: Numpy, Pandas, Matplotlib, seaborn
 
